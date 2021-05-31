@@ -1,4 +1,4 @@
-## 1922QRCode是用AppInventor2寫的掃瞄QRCode App
+## 1922QRCode 實聯制掃瞄器 是用AppInventor2寫的掃瞄QRCode App
 
 AppInventor2的專案檔可以免費[下載](https://yazelin.github.io/QRCodeScanner/QRCodeScanner.aia)
 

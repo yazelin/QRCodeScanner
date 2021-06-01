@@ -1,2 +1,4 @@
 # QRCodeScanner
 1922QRCodeScanner 實聯制掃瞄器
+因為用疫管家有點麻煩
+就用AppInventor寫一個簡單的掃瞄器給自己和朋友用
